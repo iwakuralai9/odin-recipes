@@ -1,0 +1,34 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+*{
+    background-color: rgb(250, 249, 231);
+}
+
+.title{
+    color: rgb(108, 114, 88);
+    font-size: 48px;
+    text-align: center;
+    margin-bottom: 48px;
+}
+
+h2{
+    text-align: center;
+}
+
+.recipes-links{
+    font-size: 24px;
+}
+
+.recipes-links li {
+    color: black;
+    padding-bottom: 20px; /* Встановлює відступ 10px між елементами <li> */
+}
+
+.img{ 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
